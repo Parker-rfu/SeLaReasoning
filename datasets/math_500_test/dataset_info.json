@@ -1,0 +1,58 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "math-500",
+  "dataset_size": 400274,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/HuggingFaceH4/MATH-500@6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be/test.jsonl": {
+      "num_bytes": 446564,
+      "checksum": null
+    }
+  },
+  "download_size": 446564,
+  "features": {
+    "problem": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "solution": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subject": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "level": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "unique_id": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 846838,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 400274,
+      "num_examples": 500,
+      "dataset_name": "math-500"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
