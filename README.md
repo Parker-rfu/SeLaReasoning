@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/PlatypusTerry.png" alt="Platypus Terry" width="400"/><br><br>
+  <img src="assets/PlatypusTerry.png" alt="Platypus Terry" width="400"/>
   <h1>SeLaR: Selective Latent Reasoning in Large Language Models</h1>
 </div>
 
