@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Terry_Thinking.png" width="300px">
+  <img src="assets/Terry_Thinking.png" width="180px">
 </div>
 
 <h1 align="center" style="margin-top: -20px;">
