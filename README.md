@@ -1,12 +1,14 @@
 <div align="center">
-  <h1>SeLaR: Selective Latent Reasoning in Large Language Models</h1>
+  <img src="assets/Terry_Thinking.png" width="300px">
 </div>
-<p align="center">
-    <a href="http://arxiv.org/abs/2604.08299">
-        <img alt="ArXiv" src="https://img.shields.io/badge/arXiv-SeLaR-B31B1B?logo=arxiv" />
-        <img src="assets/PlatypusTerry.png" alt="Platypus Terry" width="1000">
-    </a>
-</p>
+
+<h1 align="center" style="margin-top: -20px;">
+   SeLaR: Selective Latent Reasoning in Large Language Models
+</h1>
+
+<h5 align="center">
+  If you like our project, please give us a star ⭐ on GitHub!
+</h5>
 
 ## 📌 Overview
 
